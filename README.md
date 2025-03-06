@@ -47,3 +47,12 @@ Le projet comprend plusieurs visualisations pour aider à l'analyse des dossiers
 - **Conseils pour les conseillers** : L'intégration du score emprunteur dans un tableau de bord interactif aide les conseillers à identifier les clients à haut risque et à leur fournir des conseils sur l'amélioration de leur solvabilité.
 - **Filtrage interactif** : Les conseillers et directeurs d'agence peuvent filtrer les données par âge, nombre d'enfants, montant du prêt, et d'autres variables pour obtenir des insights personnalisés.
 - **Analyse des dossiers** : Des graphiques interactifs permettent d'analyser la relation entre les variables (score emprunteur, âge, nombre d'enfants) et l'acceptation ou le refus du prêt.
+  
+### Instructions
+
+1. **Cloner le projet** : Clonez ce dépôt sur votre machine.
+2. **Ouvrir dans Power BI** : Ouvrez le fichier `.pbix` dans Power BI Desktop.
+3. **Configurer la source de données** : Assurez-vous que le fichier Excel est correctement lié à Power BI en configurant la source de données.
+4. **Explorer le rapport** : Utilisez les filtres interactifs pour explorer les différentes variables et découvrir des informations clés sur les prêts immobiliers.
+5. **Analyser les alertes** : Consultez les alertes pour identifier rapidement les prêts à gros montants.
+
